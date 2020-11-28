@@ -1,0 +1,22 @@
+Un pequeño repositorio donde aprenderemos un par de trucos para trabajar rápidamente con Visual Studio Code.
+
+También hay un par de extensiones bastante útiles que les pueden servir.
+Extensiones
+
+    Bookmarks
+
+    Bracket Pair Colorizer 2
+
+    Color Highlight
+
+    Liveserver
+
+    Material Icon Theme
+
+    Material Theme
+
+    Paste JSON as Code
+
+    TODO Highlight
+
+    TODO Tree
